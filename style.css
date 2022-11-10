@@ -1,0 +1,50 @@
+ li {
+    display: flex;
+    text-align:justify;
+    justify-content: space-around;
+    justify-content: end;
+ }
+
+
+    
+ 
+ 
+
+    
+
+ 
+img{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 5px 5px;
+    width: 60px;
+    height: 60px;
+    margin: 0;
+    
+}
+.prmier2{
+    display: flex;
+    justify-content:space-between;
+}
+.deux{
+    font-weight: bold;
+    background-color:aliceblue;
+    color: black;
+    padding: 5px;
+}
+.trois {
+    font-weight: bolder;
+    background-position: 0%;
+    background-color: aliceblue;
+    color: black;
+    padding: 0px;
+}
+.quatre {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    background-color: aliceblue;
+    color: black;
+    padding: 0px;
+    margin: 0px;
+}
